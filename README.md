@@ -1,21 +1,6 @@
 <div align="center">
-
-# Mini-Projet Python
-
-<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Gestion+des+étudiants+🎓;Analyse+des+résultats+📊;Génération+de+fichiers+💾" alt="Typing SVG" />
-  </a>
-
-<br>
-
-<img src="https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge" />
-  <img src="https://img.shields.io/badge/Statut-Terminé-10B981?style=for-the-badge" alt="Status" />
-  <img src="https://img.shields.io/badge/Note_Espérée-20%2F20-F59E0B?style=for-the-badge" alt="Note" />
-
-<br><br>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=60&lines=Mini-Projet+Python;Gestion+des+etudiants" alt="Titre animé" />
 </div>
-
 ---
 
 ## 🎯 Présentation du projet

@@ -27,7 +27,7 @@ print("\n") # Saut de ligne pour espacer les résultats dans le terminal
 # 2.1 Calculer la moyenne d'un étudiant
 def moyenne(liste_notes):
     somme = 0
-    # On additionne chaque note manuellement sans utiliser sum()
+    # On additionne chaque 
     for note in liste_notes:
         somme += note
     # On divise par le nombre total de notes
